@@ -13,6 +13,7 @@
 		EFC83820273C775400200878 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EFC8381E273C775400200878 /* Main.storyboard */; };
 		EFC83822273C775400200878 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EFC83821273C775400200878 /* Assets.xcassets */; };
 		EFC83825273C775400200878 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EFC83823273C775400200878 /* LaunchScreen.storyboard */; };
+		EFC8382D273C77DA00200878 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFC8382C273C77DA00200878 /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EFC83821273C775400200878 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EFC83824273C775400200878 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EFC83826273C775400200878 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EFC8382C273C77DA00200878 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				EFC83821273C775400200878 /* Assets.xcassets */,
 				EFC83823273C775400200878 /* LaunchScreen.storyboard */,
 				EFC83826273C775400200878 /* Info.plist */,
+				EFC8382C273C77DA00200878 /* ViewController2.swift */,
 			);
 			path = Team29_ToDo_Part1;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EFC8381D273C775400200878 /* ViewController.swift in Sources */,
+				EFC8382D273C77DA00200878 /* ViewController2.swift in Sources */,
 				EFC83819273C775400200878 /* AppDelegate.swift in Sources */,
 				EFC8381B273C775400200878 /* SceneDelegate.swift in Sources */,
 			);
