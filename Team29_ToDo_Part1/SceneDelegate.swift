@@ -1,9 +1,7 @@
-//
-//  SceneDelegate.swift
-//  Team29_ToDo_Part1
-//
-//  Created by Alvin Carl Mercado on 2021-11-10.
-//
+// Student ID            : 301223010
+// Date last modified    : Nov. 10, 2021
+// Short revision history: App UI was initially created with one screen (4:00 PM 11/10/21) Added a plus sign button to navigate on second screen. (5:00 PM 11/10/21) Added constraints (6:00 PM 11/10/21)
+// Short description of the program: This is a standard ToDo List app that is going to store to do list item inserted by the user.
 
 import UIKit
 
